@@ -1,0 +1,27 @@
+.header__top {
+    display: grid;
+    grid-template-columns: 1fr 386px 1fr;
+    gap: 20px;
+}
+
+.header__contacts {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+}
+
+.header__phone {
+    border: 1px solid #475009;
+    border-radius: 60px;
+    padding: 6px 12px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.header__phone-text {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
