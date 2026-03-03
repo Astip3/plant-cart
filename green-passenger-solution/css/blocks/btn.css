@@ -8,6 +8,8 @@
     color: #502198;
     border: 2px solid #502198;
     width: 280px;
+    font-size: 18px;
+    line-height: 18px;
 }
 
 .btn--size-xl {
